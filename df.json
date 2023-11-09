@@ -6,5 +6,6 @@
     "is64Bit": true,
     "version": "1.48",
     "workspaceName": "LuxHelperPack",
-	"icon": "HelperPack.ico"
+	"icon": "HelperPack.ico",
+	"shortDescription": "Lekker korte beschrijving hopsakee"
 }
