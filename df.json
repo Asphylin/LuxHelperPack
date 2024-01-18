@@ -8,6 +8,10 @@
     "workspaceName": "LuxHelperPack",
 	"icon": "HelperPack.ico",
 	"shortDescription": "Lekker korte beschrijving hopsakee",
+	"paths": {
+		"appHtml": "AppHtml",
+		"programs": "Programs"
+	},
 	"install": [
 	{
 		"path": "${AppHtml}\\Custom"
