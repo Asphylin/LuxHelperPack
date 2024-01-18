@@ -7,5 +7,23 @@
     "version": "1.48",
     "workspaceName": "LuxHelperPack",
 	"icon": "HelperPack.ico",
-	"shortDescription": "Lekker korte beschrijving hopsakee"
+	"shortDescription": "Lekker korte beschrijving hopsakee",
+	"install": [
+	{
+		"path": "${AppHtml}\\Custom"
+	},
+	{
+		"path": "${Programs}\\TestDLL (definitely not a text file)_2.dll"
+	},
+	{
+		"path": "${AppHtml}\\LHP\\LHP_TEST_FILE_2.js"
+	}
+	],
+	"htmlIncludes" : [
+		"Custom\\test3.css",
+		{
+			"file": "Custom\\test4.js",
+			"fileType": "js"
+		}
+	]
 }
