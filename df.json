@@ -4,7 +4,11 @@
     "df-max": 99.3,
     "df-min": 20.1,
     "is64Bit": true,
-    "version": "1.48",
+    "version": {
+		"major": 1,
+		"minor": 48,
+		"revision": 0
+	},
     "workspaceName": "LuxHelperPack",
 	"icon": "HelperPack.ico",
 	"shortDescription": "Lekker korte beschrijving hopsakee",
